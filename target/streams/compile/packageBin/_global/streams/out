@@ -1,0 +1,35 @@
+[debug] Packaging C:\Programming\Chesil\codeA2\target\scala-2.12\codea2_2.12-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	ALU$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ALU$$anon$1.class
+[debug] 	ALU.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ALU.class
+[debug] 	ControlUnit$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ControlUnit$$anon$1.class
+[debug] 	ControlUnit.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ControlUnit.class
+[debug] 	CPUTop$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\CPUTop$$anon$1.class
+[debug] 	CPUTop.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\CPUTop.class
+[debug] 	DataMemory$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\DataMemory$$anon$1.class
+[debug] 	DataMemory.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\DataMemory.class
+[debug] 	Hello$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\Hello$$anon$1.class
+[debug] 	Hello.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\Hello.class
+[debug] 	ProgramCounter$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ProgramCounter$$anon$1.class
+[debug] 	ProgramCounter.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ProgramCounter.class
+[debug] 	ProgramMemory$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ProgramMemory$$anon$1.class
+[debug] 	ProgramMemory.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\ProgramMemory.class
+[debug] 	RegisterFile$$anon$1.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\RegisterFile$$anon$1.class
+[debug] 	RegisterFile.class
+[debug] 	  C:\Programming\Chesil\codeA2\target\scala-2.12\classes\RegisterFile.class
+[debug] Done packaging.
